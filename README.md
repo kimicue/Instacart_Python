@@ -1,6 +1,7 @@
 # Instacart_Python
 Instcart is an online grocery store that operates through an app. They have good sales historically but want to uncover more information about their sales patterns.
 
+
 ## OBJECTIVE
 Clean and merge four data sets: orders, products, department, and customer data.
 
@@ -9,6 +10,7 @@ Analyze the data to answer questions from marketing and sales teams (for example
 Analyze the data to discover differences in user's ordering habits based various characteristics (such as region, income, loyalty status, etc.).
 
 Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for instance: pet owners, vegetarian/vegan, etc.).
+
 
 ## DATA
 We were provided with datasets that contained all the customer information:
@@ -19,6 +21,7 @@ We were provided with datasets that contained all the customer information:
 - Customers
 - Departments
 
+
 ## FOLDERS
 The basket analysis was separated into the following folders:
 
@@ -28,12 +31,14 @@ Scripts: Contains all the Python coding involved for the entire analysis process
 Analysis: Contains the Visualizations used for developing insights and presenting on the final report
 Sent to client: Contains the Final Report in Excel
 
+
 ## TOOLS
 Language: Python
 
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
 
 Software: Jupyter Notebooks and Excel
+
 
 ## SKILLS DEMONSTRATED,
 Cleaning data: removed duplicates, found and resolved missing values, addressed mixed or incorrect data types.
@@ -47,4 +52,3 @@ Derived new variables: grouped data by user, order, and department to allow expl
 Visualizing data: used Matplotlib and Seaborn to create histograms, line charts, pie charts, and bar charts (vertical/horizontal, stacked, and 100% stacked).
 
 Reporting results: provided an Excel file that explained the answers to questions from sales/marketing as well as documenting the data population flow, consistency checks, data wrangling, and column derivations.
-
